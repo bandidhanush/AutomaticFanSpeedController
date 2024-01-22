@@ -1,6 +1,7 @@
 # AutomaticFanSpeedController
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/bandidhanush/AutomaticFanSpeedController?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/bandidhanush/AutomaticFanSpeedController?color=red&logo=github&style=for-the-badge)
